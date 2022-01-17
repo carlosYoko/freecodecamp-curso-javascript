@@ -22,5 +22,5 @@ function proximoEnLaFila(arreglo, elemento) {
 var miArreglo = [1, 2, 3, 4, 5];
   
 console.log("Antes: " + JSON.stringify(miArreglo));
-console.log(próximoEnLaFila(miArreglo, 6));
+console.log(proximoEnLaFila(miArreglo, 6));
 console.log("Después: " + JSON.stringify(miArreglo));
